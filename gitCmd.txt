@@ -1,0 +1,3 @@
+"git remote add origin https://github.com/tristeyang/Law-School.git" 
+"git commit -m 'The commit'"  
+"git push -u origin main" 
